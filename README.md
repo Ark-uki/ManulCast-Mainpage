@@ -21,7 +21,7 @@
 **ManulCast Arknights 电台**： https://cast.rtk.pm/public/manulcast_arknights_radio/radio.mp3   
 
 # 电台说明
-> 注意：专辑列表包含长达一小时的整张CD音轨（FLAC），可能严重影响收听体验。目前没有太好的解决方案，欢迎[贡献你的想法](#/README?id=贡献)
+> 注意：专辑列表包含长达一小时的整张CD音轨（FLAC），可能严重影响收听体验。目前没有太好的解决方案，欢迎[贡献你的想法](?id=贡献)
 
 > 注意：此处所指的曲风仅依照该艺术家的主要曲风分类，并非绝对准确。目前已大规模收录的曲风包括 Trance House Techno 等，其他曲风尚在补充
 - **ManulCast 主电台**：随机播放所有已收录的曲目，因此上下曲之间可能会有明显割裂
