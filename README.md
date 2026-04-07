@@ -11,7 +11,7 @@
 - 点击右下角添加电台，复制 https://cast.rtk.pm/ 粘贴进地址栏，点击搜索就可以添加自己想要听的电台。
 - 若无法通过官方渠道获取APP，可以使用 [MT 管理器](https://mt2.cn)安装[此处](https://wwbxb.lanzouw.com/iVV5i3mp8t0d)提供的 XAPK，但不保证是最新版本。   
 
-![Image](src/app.jpg =500x)
+<img src="src/app.jpg" width="50%" />
 
 ## 第三方APP收听
 如果有使用其他APP收听的需求（例如 Rhythm、PixelPlay、Symphony、VLC、WinAMP 等），需要打开 APP 的网络串流功能，然后复制你想听的电台的音频流并粘贴：   
