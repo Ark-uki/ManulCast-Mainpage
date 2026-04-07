@@ -22,6 +22,7 @@
 > 注意：此处所指的曲风仅依照该艺术家的主要曲风分类，并非绝对准确。目前已大规模收录的曲风包括 Trance House Techno 等，其他曲风尚在补充
 - **ManulCast 主电台**：随机播放所有已收录的曲目，因此上下曲之间可能会有明显割裂
 - **ManulCast Trance 电台**：随机播放所有已收录的 Trance 舞曲。包含 Ferry Corstan、Aly & Fila、Armin van Burren、Darude等作曲家的专辑
+
 > 以下电台正在评估是否开启及运营时间
 - **ManulCast Techno 电台**：随机播放所有已收录的 Techno 音乐。包含 Marusha、Lexy & K-Paul、Daft Punk、Steyoyoke等作曲家的专辑
 - **ManulCast deadmau5-only 电台**：随机播放所有已收录的作曲家为 deadmau5 的歌曲
