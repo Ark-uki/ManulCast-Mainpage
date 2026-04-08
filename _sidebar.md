@@ -1,2 +1,2 @@
-- [Homepage](README)
+- [主页](README)
 - [歌曲信息](Albums)
