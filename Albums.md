@@ -14,7 +14,7 @@
 - ジブリがいっぱい スタジオジブリ作品 サントラ全集 (Ghibli ga Ippai - Studio Ghibli Production Soundtrack Complete Works)(1996)
 
 # Trance
-## 作曲家
+**包含的作曲家**：
 - Adymus
 - Aly & Fila
 - Andy Blueman
@@ -27,7 +27,7 @@
 - Super8 & Tab
 - more...
 
-## VA专辑
+**多名艺术家合作的专辑**：
 - TranceMASTER 01~7006
 - TranceNation (1999~2015)
 - Nothing But Pure Trance (2014~2016)
