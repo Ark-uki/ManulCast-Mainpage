@@ -12,6 +12,25 @@
 - Tatsh（清水達也） - Material CD (2011)
 - Sota Fujimori（藤森崇多）Collections (2008~2016)
 - ジブリがいっぱい スタジオジブリ作品 サントラ全集 (Ghibli ga Ippai - Studio Ghibli Production Soundtrack Complete Works)(1996)
+- TANO*C Collections
+    - Resurrection X (2016)
+    - TANOC Remixes 2 (2011)
+    - HARDCORE SYNDROME 1~4, 6~10,14 (2007~2008, 2011~2016)
+    - Qimailla-8K (2003)
+    - XTC-ism (2004)
+    - .Core (2004)
+    - C.F.S (Complete Floor Specification) (2005)
+    - Hardcore Expo (2005)
+    - TANOC Corenival (2005)
+    - The Best of HARDCORE TANOC (2006)
+    - Hardcore Samurai (2005)
+    - Speedball (2006)
+    - TANOC Remixes (2006)
+    - DiGiTAL GENERATiON EPs (2008)
+    - Speed Ball Z (2009)
+    - ...
+- Touhou OST Collections
+- Akira Complex Collections
 
 # Trance
 **包含的作曲家**：
@@ -28,7 +47,8 @@
 - more...
 
 **多名艺术家合作的专辑**：
-- TranceMASTER 01~7006
+- A State of Trance (2004~2026)
+- TRANCEMASTER 01~7006
 - TranceNation (1999~2015)
 - Nothing But Pure Trance (2014~2016)
 - Asia 2001 (1996~2015)
