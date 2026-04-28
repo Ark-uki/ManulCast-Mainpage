@@ -5,7 +5,7 @@
 # ACG相关专辑
 - Arknights OST Collection (2019~2025)
 - Exit TRANCE Presents CDs
-- KAMITSUMAKI Collections
+- KAMITSUBAKI Collections
     - KAF Collections (2019~2025)
     - RIM Collections (2020~2025)
     - MONARK - Digital Special Soundtrack (2022)
