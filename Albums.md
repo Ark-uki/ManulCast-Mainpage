@@ -5,6 +5,12 @@
 # ACG相关专辑
 - Arknights OST Collection (2019~2025)
 - Exit TRANCE Presents CDs
+- KAMITSUMAKI Collections
+    - KAF Collections (2019~2025)
+    - RIM Collections (2020~2025)
+    - MONARK - Digital Special Soundtrack (2022)
+- Diverse System Collections
+    - PIANO X (2026)
 - Cytus OST (2012~2014)
 - CytusII Sound Collections
 - Arcaea Sound Collections
