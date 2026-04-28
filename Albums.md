@@ -10,7 +10,7 @@
     - RIM Collections (2020~2025)
     - MONARK - Digital Special Soundtrack (2022)
 - Diverse System Collections
-    - PIANO X (2026)
+    - AD:PIANO X (2026)
 - Cytus OST (2012~2014)
 - CytusII Sound Collections
 - Arcaea Sound Collections
